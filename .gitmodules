@@ -1,0 +1,6 @@
+[submodule "eco-final-react"]
+	path = eco-final-react
+	url = https://github.com/manish2344/eco-final-react.git
+[submodule "full-stack-react-ecommerce"]
+	path = full-stack-react-ecommerce
+	url = https://github.com/manish2344/full-stack-react-ecommerce.git
